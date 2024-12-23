@@ -1,0 +1,17 @@
+{
+  "name": "alibabapuhuiti-3-95-extrabold",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alibaba",
+    "puhuiti"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
